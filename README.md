@@ -6,9 +6,7 @@ Este proyecto forma parte del curso de **Data Science de CoderHouse** y tiene co
 
 ## 📊 Descripción del Proyecto
 
-El análisis se basa en un conjunto de datos que contiene información sobre [describí brevemente qué tipo de datos analizaste: por ejemplo, incidentes, vulnerabilidades, ataques, etc.].
-
-El objetivo principal es identificar patrones relevantes y predecir posibles riesgos o incidentes mediante técnicas de Machine Learning.
+El presente análisis tiene como objetivo explorar un conjunto de datos de ciberseguridad que registra eventos de tráfico malicioso en una red. A través de visualizaciones y resúmenes estadísticos, se busca identificar patrones en los tipos de ataques, su severidad, distribución geográfica y las respuestas aplicadas. Este estudio permite obtener información clave para mejorar las estrategias de defensa y gestión de incidentes en entornos digitales.
 
 ---
 
@@ -26,30 +24,34 @@ El objetivo principal es identificar patrones relevantes y predecir posibles rie
 ## 📁 Estructura del repositorio
 
 Proyecto_Final_DS_Cibersecurity/
-- Dataset_Cybersecurity_Attacks # Datos en crudo obtenidos de Kaggle
-- ProyectoDS_Ciberseguridad_Wasserman # Notebook con análisis exploratorio y modelos
+- Dataset_Cybersecurity_Attacks # Datos en crudo obtenidos de Kaggle.
+- ProyectoDS_Ciberseguridad_Wasserman # Notebook con análisis exploratorio y modelos.
 - README.md
-- Requirements.txt # Librerías necesarias
+- Requirements.txt # Librerías necesarias.
 
 ---
 
 ## 📈 Resultados principales
 
-- 
+- Los modelos selecionados para el análisis supervisado no se ajustaron correctamente al estudio en cuestión, por lo que no se lograron conclusiones satisfactorias.
+- En este caso, es neceaario probar con otros modelos hasta encontrar el adecuado.
 
 ---
 
 ## 📌 Estado del proyecto
-- ✅ Proyecto finalizado como entrega académica
-- 🔍 Potencial para extender con más datos o visualizaciones interactivas
+
+- ✅ Proyecto finalizado como entrega académica.
+- 🔍 Potencial para extender con más datos o visualizaciones interactivas.
 
 ## 👩‍💻 Autora
+
 Pamela Wasserman
 Ingeniera en Alimentos | Especialización en Data Science
 - 💼 [LinkedIn](https://www.linkedin.com/in/pamela-wasserman)
 - 🌐 [Portafolio](https://drive.google.com/file/d/17H7RrkCputtTCggmmZ2g4_2bYyDoIqk6/view?usp=sharing)
 
 ## 📜 Licencia
+
 Este proyecto está bajo la licencia MIT. Ver archivo LICENSE para más detalles.
 
 ---
